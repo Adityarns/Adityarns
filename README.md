@@ -26,14 +26,19 @@
 
 ## 🤝 Connect with me!
 <div align="left">
+<<<<<<< HEAD
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" href="https://www.instagram.com/adityarns_/"/>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+=======
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" href="https://www.instagram.com/adityarns_" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
+>>>>>>> 2754a3b45089c9598cfb65fc8c0f59d099cf8926
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 
 <div align="center">
-  <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NrcXN3c29ueW96MmVybmx5Y3k4eGppMnpqb21jM2sxbXl5aXkxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12mRllHWXpt4M8/giphy.gif"  />
+  <img height="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NrcXN3c29ueW96MmVybmx5Y3k4eGppMnpqb21jM2sxbXl5aXkxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12mRllHWXpt4M8/giphy.gif"  />
 </div>
 
 ## 😗 Stats
