@@ -4,7 +4,7 @@
 <div align="left">
     <li>🐣 Junior Programmer</li>
     <li>🏫 Curently studying Informatics Engineering at UIN Sunan Gunung Djati Bandung</li>
-    <li>🧐 Curently learning node.Js</li>
+    <li>🧐 Curently learning React.Js</li>
 </div>
 
 <!-- ## 🧑‍💻 Skills
