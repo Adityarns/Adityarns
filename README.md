@@ -7,7 +7,7 @@
     <li>🧐 Curently learning React.Js</li>
 </div>
 
-<!-- ## 🧑‍💻 Skills
+## 🧑‍💻 Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
   <img width="12" />
@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c logo"  />
-</div> -->
+</div>
 
 ## 🤝 Connect with me!
 <div align="left">
