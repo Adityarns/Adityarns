@@ -56,9 +56,9 @@ Computer Science student at Islamic State Sunan Gunung DJati Bandung with a stro
 
 ### Featured Projects
 
-* **Rekapin** – An integrated financial, operational, and data management platform tailored for MSMEs.
-* **Heyjipro** – A modern web application designed for seamless system integrations and responsive user experiences.
-* **Kesling** – A web-based environmental health information and management system built for data monitoring and analysis.
+* <a href="https://capstone-project-rekapin.vercel.app/login">**Rekapin**</a> – An integrated financial, operational, and data management platform tailored for MSMEs.
+* <a href="https://heyjipro.vercel.app/">**HeyJipro**</a>  – A modern web application designed for seamless system integrations and responsive user experiences.
+* <a href="https://www.kesling-linggar.web.id/">**Kesling**</a> – A web-based environmental health information and management system built for data monitoring and analysis.
 
 ---
 
