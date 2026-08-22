@@ -66,8 +66,8 @@ Computer Science student at Islamic State Sunan Gunung DJati Bandung with a stro
 
 <p align="left">
 <a href="https://github.com/Adityarns">
-  <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityarns&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityarns&layout=compact&layout=compact&theme=gotham"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityarns&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityarns&layout=compact&layout=compact&theme=gotham"/>
 </a>
 </p>
 
