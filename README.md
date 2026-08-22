@@ -16,7 +16,7 @@
 </div>
 
 <div>
-  <img  height="700" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NrcXN3c29ueW96MmVybmx5Y3k4eGppMnpqb21jM2sxbXl5aXkxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12mRllHWXpt4M8/giphy.gif"  />
+  <img  height="200em" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NrcXN3c29ueW96MmVybmx5Y3k4eGppMnpqb21jM2sxbXl5aXkxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12mRllHWXpt4M8/giphy.gif"  />
 </div>
 
 ---
@@ -64,13 +64,13 @@ Computer Science student at Islamic State Sunan Gunung DJati Bandung with a stro
 
 ### GitHub Statistic & Activity
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Adityarns">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityarns&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityarns&layout=compact&layout=compact&theme=gotham"/>
 </a>
 </p>
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/Adityarns/Adityarns/output/snake.svg" alt="Snake animation" />
 </div>
